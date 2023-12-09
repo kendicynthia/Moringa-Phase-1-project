@@ -55,7 +55,9 @@ This graph gave us the following feedback.>Movies with a highest runtime like 18
  This bar graph gives us the following feedback;From the above graph, we can tell that action,comedy and animation combo have the lowest ratings closely followed by Drama,Mystery combo while the drama genre has the highest ratings.
 
 ![image](https://github.com/kendicynthia/Moringa-Phase-1-project/assets/53642034/192b2851-b418-4573-b02f-71e494e82e46)
-The above scatter plot gives us the following feedback;>Toy Story 3 has the lowest foreign gross income but highest domestic income, while Shrek Forever After has the lowest domestic income but the highest foreign income.Depending on the target ie domestic or foreign, this should be taken into consideration.                                                                 7. **Conclusions**
+The above scatter plot gives us the following feedback;>Toy Story 3 has the lowest foreign gross income but highest domestic income, while Shrek Forever After has the lowest domestic income but the highest foreign income.Depending on the target ie domestic or foreign, this should be taken into consideration.                                                                
+
+7. **Conclusions**
 1. Drama genre happens to have the highest average rating,whilst the animation,action,comedy combo had the lowest average rating. This means that if Microsoft decides to into the movie industry, they should consider going into the drama genre which has the highest ratings. They may also consider doing the Animation,comedy,adventure combo as it also has the second highest ratings.
 2. The more the runtime the higher the average rating.
 3. The lower the domestic income, the higher the foreign gross and vice versa. This is seen in the Shrek forever after movie and toy story 3
